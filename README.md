@@ -20,6 +20,10 @@ chat_with_any_csv is an interactive tool that allows users to chat with CSV file
 
 This project leverages gemma2-9b-it, a powerful model used for the create CSV agent function from LangChain.
 
+## 🔧 Deployment:
+
+This application is deployed on Streamlit, a Python-based framework for building interactive web applications.
+
 ## 📝 License:
 
 This project is licensed under the MIT License.
